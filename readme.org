@@ -1,0 +1,4 @@
+#+TITLE: This is my emacs config repo
+#+AUTHOR: svtter
+
+* Just for fun~
