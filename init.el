@@ -17,7 +17,7 @@
 
 
 ;; --------------------------------
-;; (require 'init-func.el)
+(require 'init-func)
 (require 'init-packages)
 (require 'init-ui)
 (require 'init-better-defaults)
