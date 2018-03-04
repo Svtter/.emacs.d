@@ -118,6 +118,8 @@
   (goto-char (point-min))
   (while (search-forward "\r" nil t) (replace-match "")))
 
+;; for evil mode compatibly org mode
+(setq evil-want-C-i-jump nil)
 
 
 (provide 'init-better-defaults)

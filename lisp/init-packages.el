@@ -38,6 +38,11 @@
 		deft		
                 ;; --- Themes ---
                 monokai-theme
+
+		;; python
+		python-mode
+		company-jedi
+		
                 ;; solarized-theme
 		popwin
 
